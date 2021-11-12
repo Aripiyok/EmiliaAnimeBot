@@ -63,28 +63,28 @@ Anda dapat menggunakan / membantu atau tombol perintah yang diberikan di bawah i
 buttons = [
     [
         InlineKeyboardButton(
-            text="Pasang saya di group",url=f"t.me/{BOT_USERNAME}?startgroup=true"
+            text="••ᴀᴅᴅ ᴍᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ••",url=f"t.me/{BOT_USERNAME}?startgroup=true"
         ),
     ],
     [
         InlineKeyboardButton(
-          text="Perintah", callback_data="help_back"
+          text="••ᴄᴏᴍᴍᴀɴᴅs••", callback_data="help_back"
         ),
     ],
     [
         InlineKeyboardButton(
-          text="📮 Updates", url="https://t.me/fl0werboy"
+          text="••ᴜᴘᴅᴀᴛᴇs••", url="https://t.me/fl0werboy"
         ),
     ],
          
     [
        InlineKeyboardButton(
-           text="🐱 Support", url=f"https://t.me/{SUPPORT_CHAT}"
+           text="••sᴜᴘᴘᴏʀᴛ••", url=f"https://t.me/{SUPPORT_CHAT}"
          ),
     ],
     [
         InlineKeyboardButton(
-          text="✒ Source", url="https://www.xnxx.com" # If you have a bit of dignity left in you, Do NOT Remove this Button
+          text="••sᴏᴜʀᴄᴇ••", url="https://www.xnxx.com" # If you have a bit of dignity left in you, Do NOT Remove this Button
         ),
      
     ],
