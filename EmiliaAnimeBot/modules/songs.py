@@ -15,7 +15,7 @@ def time_to_seconds(time):
     return sum(int(x) * 60 ** i for i, x in enumerate(reversed(stringt.split(':'))))
 
 
-@pgram.on_message(filters.command(['song']))
+@pgram.on_message(filters.command(['s']))
 def song(client, message):
 
     user_id = message.from_user.id 
