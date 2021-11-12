@@ -54,11 +54,11 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = f"""
 This is {BOT_NAME}[.]({EMILIA_START_IMG})
 
-A Diverse Systematic Bot Written in Python.
-You can Add Me In Your Group for Knowing my True Power.
+Hi sy @boytapibot
+Bot sistematis yang beragam ditulis dalam Python.
+Anda dapat menambahkan saya di grup Anda karena mengetahui kekuatan sejati saya.
 
-You can either use /help or the Commands Button Given Below To get a list of my features!
-"""
+Anda dapat menggunakan / membantu atau tombol perintah yang diberikan di bawah ini untuk mendapatkan daftar fitur saya!"""
 
 buttons = [
     [
