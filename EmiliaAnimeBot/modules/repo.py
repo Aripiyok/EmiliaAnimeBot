@@ -32,6 +32,6 @@ def repo(update: Update, context: CallbackContext):
         parse_mode=ParseMode.MARKDOWN
         )
 
-REPO_HANDLER = CommandHandler("r", r)
+REPO_HANDLER = CommandHandler("r", repoo)
 
 dispatcher.add_handler(REPO_HANDLER)
