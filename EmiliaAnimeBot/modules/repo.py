@@ -4,23 +4,23 @@ from telegram import ParseMode, Update
 from telegram.ext import CommandHandler, CallbackContext
 from telegram.ext.dispatcher import  run_async
 
-GIT_PIC = "https://telegra.ph/file/311df2003dc985a39ddf6.jpg"
+GIT_PIC = "https://telegra.ph/file/c5666c010f3ccc267719d.jpg"
 
 GIT_TEXT = """
-EmiliaAnimeRobot By @TheSidharthaRao
+@boytapibot By @fl0werboy
 
 *Contributors/Credits*
 
-> [IzumiCypherX](https://github.com/IzumiCypherX)
-> [Nautilus](https://github.com/sudo-nautilus)
-> [Kaneki](https://github.com/KanekiKen44)
-> [Paul-Larsen](https://github.com/PaulSonofLars)
-> [TheHamkerCat](https://github.com/TheHamkerCat)
+🔥 [IzumiCypherX]
+🔥 [Nautilus]
+🔥 [Kaneki]
+🔥 [Paul-Larsen]
+🔥 [TheHamkerCat]
 
 
-[Repository](https://github.com/IzumiCypherX/EmiliaAnimeBot)
-[Support](https://telegram.dog/TangentChats)
-[Docs](https://telegra.ph/file/dc836cb6f93a6e91dfa68.jpg)
+[Repository](https://www.xnxx.com)
+[Support](https://t.me/cariteman_mutual)
+[Docs](https://telegra.ph/file/c5666c010f3ccc267719d.jpg)
 
 """
 
