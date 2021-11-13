@@ -19,15 +19,7 @@ GIT_TEXT = """
 🔥 [@TheHamkerCat]
 🔥 [@Xflicks]
 🔥 [@mrismanaziz]
-__________________________________
-buttons = [
-       
-        InlineKeyboardButton(text="ɢʀᴏᴜᴘ ᴄʜᴀᴛ", url=f"https://t.me/temanmutuallan"),
-        InlineKeyboardButton(
-            text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/keluhkesahboy/410"
-        ),
-    ]
-
+_________________________________
 [Repository](https://www.xnxx.com)
 [Support](https://t.me/cariteman_mutual)
 [Instagram](https://www.instagram.com/ariiiiav)
