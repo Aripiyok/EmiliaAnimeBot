@@ -4,7 +4,7 @@ from telegram import ParseMode, Update
 from telegram.ext import CommandHandler, CallbackContext
 from telegram.ext.dispatcher import  run_async
 
-GIT_PIC = "https://telegra.ph/file/c5666c010f3ccc267719d.jpg"
+GIT_PIC = "https://telegra.ph/file/828db1aa3a6a50b27eb6c.jpg"
 
 GIT_TEXT = """
 @boytapibot By @fl0werboy
@@ -18,6 +18,7 @@ GIT_TEXT = """
 🔥 [Paul-Larsen]
 🔥 [TheHamkerCat]
 🔥 [@Xflicks]
+🔥 [@mrismanaziz]
 __________________________________
 [Repository](https://www.xnxx.com)
 [Support](https://t.me/cariteman_mutual)
