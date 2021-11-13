@@ -11,16 +11,17 @@ GIT_TEXT = """
 
 *Contributors/Credits*
 
+✨Special thanks✨
 🔥 [IzumiCypherX]
 🔥 [Nautilus]
 🔥 [Kaneki]
 🔥 [Paul-Larsen]
 🔥 [TheHamkerCat]
-
-
+🔥 [@Xflicks]
+__________________________________
 [Repository](https://www.xnxx.com)
 [Support](https://t.me/cariteman_mutual)
-[Docs](https://telegra.ph/file/c5666c010f3ccc267719d.jpg)
+[Instagram](https://www.instagram.com/ariiiiav)
 
 """
 
@@ -32,6 +33,6 @@ def repo(update: Update, context: CallbackContext):
         parse_mode=ParseMode.MARKDOWN
         )
 
-REPO_HANDLER = CommandHandler("r", repo)
+REPO_HANDLER = CommandHandler("repo", repo)
 
 dispatcher.add_handler(REPO_HANDLER)
