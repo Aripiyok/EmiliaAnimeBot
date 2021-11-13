@@ -35,7 +35,7 @@ __help__ = """
 
 🔥 CHANNEL VC CMD
 
-/cp - stream music on channel voice chat
+/c - stream music on channel voice chat
 /cplayer - show the song in streaming
 /cpause - pause the streaming music
 /cresume - resume the streaming was paused
