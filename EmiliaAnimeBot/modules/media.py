@@ -16,19 +16,35 @@ from EmiliaAnimeBot import pgram as app
 from EmiliaAnimeBot.pyroerror import capture_err
 from EmiliaAnimeBot.utils.pastebin import paste
 
-__mod_name__ = "Musik player"
+__mod_name__ = "Music player"
 __help__ = """
 
-*AUDIO*
+🔴 here is the basic commands
 
-❍`/song` *:* To download the required song from YouTube (via name)
-❍`/ytmusic` *:* To Download Music from Youtube (via link)
-❍`/saavn` *:* To Download Music From Saavn.
+GROUP VC CMD
 
+/p (song name) - play song from youtube
+/ytp (song name) - play song directly from youtube 
+/st (reply to audio) - play song using audio file
+/playlist - show the list song in queue
+/song (song name) - download song from youtube
+/search (video name) - search video from youtube detailed
+/vsong (video name) - download video from youtube detailed
+/lyric - (song name) lyrics scrapper
+/vk (song name) - download song from inline mode
 
-*LYRICS*
+CHANNEL VC CMD
 
-❍`/lyrics` *:* To Get Lyrics Of a Song.
+/cp - stream music on channel voice chat
+/cplayer - show the song in streaming
+/cpause - pause the streaming music
+/cresume - resume the streaming was paused
+/cskip - skip streaming to the next song
+/cend - end the streaming music
+/refresh - refresh the admin cache
+/ubjoinc - invite the assistant for join to your channel
+
+⚡ Powered by @boytapibot
 
 """
 
