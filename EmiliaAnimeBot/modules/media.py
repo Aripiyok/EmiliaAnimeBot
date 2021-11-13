@@ -16,7 +16,7 @@ from EmiliaAnimeBot import pgram as app
 from EmiliaAnimeBot.pyroerror import capture_err
 from EmiliaAnimeBot.utils.pastebin import paste
 
-__mod_name__ = "Media"
+__mod_name__ = "Musik player"
 __help__ = """
 
 *AUDIO*
