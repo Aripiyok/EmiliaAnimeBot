@@ -12,11 +12,11 @@ GIT_TEXT = """
 *Contributors/Credits*
 
 ✨Special thanks✨
-🔥 [IzumiCypherX]
-🔥 [Nautilus]
-🔥 [Kaneki]
-🔥 [Paul-Larsen]
-🔥 [TheHamkerCat]
+🔥 [@IzumiCypherX]
+🔥 [@Nautilus]
+🔥 [@Kaneki]
+🔥 [@Paul-Larsen]
+🔥 [@TheHamkerCat]
 🔥 [@Xflicks]
 🔥 [@mrismanaziz]
 __________________________________
