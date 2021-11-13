@@ -21,11 +21,11 @@ __help__ = """
 
 🔴 here is the basic commands
 
-GROUP VC CMD
+🔥 GROUP VC CMD
 
 /p (song name) - play song from youtube
 /ytp (song name) - play song directly from youtube 
-/st (reply to audio) - play song using audio file
+/stream (reply to audio) - play song using audio file
 /playlist - show the list song in queue
 /song (song name) - download song from youtube
 /search (video name) - search video from youtube detailed
@@ -33,7 +33,7 @@ GROUP VC CMD
 /lyric - (song name) lyrics scrapper
 /vk (song name) - download song from inline mode
 
-CHANNEL VC CMD
+🔥 CHANNEL VC CMD
 
 /cp - stream music on channel voice chat
 /cplayer - show the song in streaming
