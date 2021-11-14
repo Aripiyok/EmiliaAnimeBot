@@ -74,7 +74,7 @@ buttons = [
     [
         InlineKeyboardButton(text="••ᴜᴘᴅᴀᴛᴇs••", url="https://t.me/fl0werboy"),
         InlineKeyboardButton(
-            text="Music player", url=f"https://t.me/fl0werboy/410"
+            text="Music player", url=f"https://telegra.ph/ʙᴏʏ-11-14/410"
         ),
     ],    
     [
