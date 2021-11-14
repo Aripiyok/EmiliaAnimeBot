@@ -58,7 +58,7 @@ Hi sy @boytapibot
 Bot sistematis yang beragam ditulis dalam Python.
 Anda dapat menambahkan saya di grup Anda karena mengetahui kekuatan sejati saya.
 
-Anda dapat menggunakan / membantu atau tombol perintah yang diberikan di bawah ini untuk mendapatkan daftar fitur saya!"""
+Anda dapat menggunakan /help atau tombol perintah yang diberikan di bawah ini untuk mendapatkan daftar fitur saya!"""
 
 buttons = [
     [
