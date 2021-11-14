@@ -210,13 +210,13 @@ def start(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="Support", url=f"https://telegram.dog/{SUPPORT_CHAT}")
+                  InlineKeyboardButton(text="•• sᴜᴘᴘᴏʀᴛ ••", url=f"https://telegram.dog/{SUPPORT_CHAT}")
                   ],
                   [
-                  InlineKeyboardButton(text="Help", url=f"https://t.me/{BOT_USERNAME}?start=help")
+                  InlineKeyboardButton(text="•• ʜᴇʟᴘ ••", url=f"https://t.me/{BOT_USERNAME}?start=help")
                   ],
                   [
-                  InlineKeyboardButton(text="Sᴏᴜʀᴄᴇ", url="https://github.com/IzumiCypherX/EmiliaAnimeBot")
+                  InlineKeyboardButton(text="•• ᴏᴡɴᴇʀ ••", url="https://t.me/fl0werboy")
                   ]
                 ]
             ),
@@ -398,7 +398,7 @@ def get_help(update: Update, context: CallbackContext):
             InlineKeyboardMarkup(
                 [[InlineKeyboardButton(text="Back", callback_data="help_back"),
                                 InlineKeyboardButton(
-                                    text="Support", url="https://telegram.dog/TangentChats"
+                                    text="Support", url="https://t.me/cariteman_mutual"
                                 )]]
             ),
         )
