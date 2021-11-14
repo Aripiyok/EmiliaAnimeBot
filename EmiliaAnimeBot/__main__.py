@@ -72,14 +72,14 @@ buttons = [
         ),
     ],
     [
+        InlineKeyboardButton(text="••ᴜᴘᴅᴀᴛᴇs••", url="https://t.me/fl0werboy"),
         InlineKeyboardButton(
-          text="••ᴜᴘᴅᴀᴛᴇs••", url="https://t.me/fl0werboy"
+            text="Music player", url=f"https://t.me/fl0werboy/410"
         ),
-    ],
-         
+    ],    
     [
        InlineKeyboardButton(
-           text="••sᴜᴘᴘᴏʀᴛ••", url=f"https://t.me/{SUPPORT_CHAT}"
+          text="••sᴜᴘᴘᴏʀᴛ••", url=f"https://t.me/{SUPPORT_CHAT}"
          ),
     ],
     [
