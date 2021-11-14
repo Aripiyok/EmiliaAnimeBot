@@ -6,7 +6,7 @@ from EmiliaAnimeBot.utils.inlinefuncs import *
 __mod_name__ = "Inline"
 __help__ = """
 See inline for help related to inline
-Usage: @EmiliaAnimeRobot <func> <query>"""
+Usage: @boytapibot <func> <query>"""
 
 
 @app.on_inline_query()
