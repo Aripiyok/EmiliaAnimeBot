@@ -19,6 +19,7 @@ GIT_TEXT = """
 🔥 [@TheHamkerCat]
 🔥 [@Xflicks]
 🔥 [@mrismanaziz]
+🔥 [@dlwrml]
 
 [Repository](https://www.xnxx.com)
 [Support](https://t.me/cariteman_mutual)
