@@ -74,7 +74,7 @@ buttons = [
     [
         InlineKeyboardButton(text="•• ᴜᴘᴅᴀᴛᴇs ••", url="https://t.me/fl0werboy"),
         InlineKeyboardButton(
-            text="•• ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ••", callback_data="layla_"
+            text="•• ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ••", callback_data="layla_"),
         ),
     ],    
     [
