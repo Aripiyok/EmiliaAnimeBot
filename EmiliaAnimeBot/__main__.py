@@ -153,7 +153,7 @@ def send_help(chat_id, text, keyboard=None):
         reply_markup=keyboard,
     )
 
-run_async
+@run_async
 def layla_about_callback(update, context):
     query = update.callback_query
     if query.data == "layla_":
