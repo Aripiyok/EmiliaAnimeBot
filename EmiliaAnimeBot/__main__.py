@@ -210,6 +210,9 @@ def start(update: Update, context: CallbackContext):
                 [
                   [
                   InlineKeyboardButton(text="•• sᴜᴘᴘᴏʀᴛ ••", url=f"https://telegram.dog/{SUPPORT_CHAT}")
+                  InlineKeyboardButton(
+                      text="•• ᴏᴡɴᴇʀ ••", url=",http://t.me/fl0werboy"
+                  ),
                   ],
                   [
                   InlineKeyboardButton(text="•• ʜᴇʟᴘ ••", url=f"https://t.me/{BOT_USERNAME}?start=help")
