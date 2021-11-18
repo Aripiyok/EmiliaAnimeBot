@@ -101,7 +101,7 @@ buttons = [
 
 
 HELP_STRINGS = f"""
-`Hey there! My name is` [{BOT_NAME}]({EMILIA_HELP_IMG}) 
+`Hey there! My name is` [{BOT_NAME}) 
 I have Quite a Few Features, Go Ahead and Check out!"""
 
 IMPORTED = {}
