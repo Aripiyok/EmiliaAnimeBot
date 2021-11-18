@@ -52,6 +52,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = f"""
+{BOT_NAME}[.]({EMILIA_START_IMG})
 •• Haii My Name is @boytapibot ••
 
 GUA HADIR UNTUK MELINDUNGI WANITA DARI COWO STRESS!
@@ -100,7 +101,7 @@ buttons = [
 
 
 HELP_STRINGS = f"""
-`Hey there! My name is
+`Hey there! My name is` [{BOT_NAME}]({EMILIA_HELP_IMG}) 
 I have Quite a Few Features, Go Ahead and Check out!"""
 
 IMPORTED = {}
