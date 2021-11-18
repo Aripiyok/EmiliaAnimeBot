@@ -65,7 +65,7 @@ Saya Memiliki Banyak Fitur Praktis
 ┣• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkap saya
 ┗━━━━━━━━━━━━━━
 ❃ Managed  By : @fl0werboy
-❃ Thanks To : @mrismanazis & @SharingUserbot Team 🔥
+❃ Thanks To : @mrismanaziz & @SharingUserbot Team 🔥
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Cukup Klik Tombol di Bawah!
 
