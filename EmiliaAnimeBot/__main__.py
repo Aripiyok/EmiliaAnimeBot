@@ -53,9 +53,24 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = f"""
 This is {BOT_NAME}[.]({EMILIA_START_IMG})
-A Diverse Systematic Bot Written in Python.
-You can Add Me In Your Group for Knowing my True Power.
-You can either use /help or the Commands Button Given Below To get a list of my features!
+•• Haii My Name is @boytapibot ••
+
+GUA HADIR UNTUK MELINDUNGI WANITA DARI COWO STRESS!
+━━━━━━━━━━━━━━━
+Bot untuk Mengelola Grup Anda dengan Simple dan Mudah!
+Saya Memiliki Banyak Fitur Praktis 
+┏━━━━━━━━━━━━━━
+┣• Flood Control.
+┣• Warning System.
+┣• Predetermined Filters.
+┣• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkap saya
+┗━━━━━━━━━━━━━━
+❃ Managed  By : @fl0werboy
+❃ Thanks To : @mrismanaziz & @SharingUserbot Team 🔥
+━━━━━━━━━━━━━━━
+Ingin Menambahkan Saya ke Grup Anda? Cukup Klik Tombol di Bawah!
+
+This is {BOT_NAME}[.]({EMILIA_START_IMG})
 """
 
 buttons = [
