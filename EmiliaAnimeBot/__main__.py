@@ -76,7 +76,7 @@ buttons = [
         ),
     ],    
     [
-        InlineKeyboardButton(text="•• sᴜᴘᴘᴏʀᴛ ••", url=f"https://t.me/{SUPPORT_CHAT}"
+        InlineKeyboardButton(text="•• sᴜᴘᴘᴏʀᴛ ••", url=f"https://t.me/{SUPPORT_CHAT}"),
         InlineKeyboardButton(
             text="•• sᴏᴜʀᴄᴇ ••", url="https://www.xnxx.com" # If you have a bit of dignity left in you, Do NOT Remove this Button
         ),
