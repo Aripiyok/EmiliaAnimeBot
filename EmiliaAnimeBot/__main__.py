@@ -99,23 +99,8 @@ buttons = [
 
 
 HELP_STRINGS = f"""
-•• Haii My Name is @boytapibot ••
-
-GUA HADIR UNTUK MELINDUNGI WANITA DARI COWO STRESS!
-━━━━━━━━━━━━━━━
-Bot untuk Mengelola Grup Anda dengan Simple dan Mudah!
-Saya Memiliki Banyak Fitur Praktis 
-┏━━━━━━━━━━━━━━
-┣• Flood Control.
-┣• Warning System.
-┣• Predetermined Filters.
-┣• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkap saya
-┗━━━━━━━━━━━━━━
-❃ Managed  By : @fl0werboy
-❃ Thanks To : @mrismanaziz & @SharingUserbot Team 🔥
-━━━━━━━━━━━━━━━
-Ingin Menambahkan Saya ke Grup Anda? Cukup Klik Tombol di Bawah!` [{BOT_NAME}]({EMILIA_HELP_IMG})Hey there!"""
-
+`Hey there! My name is` [{BOT_NAME}]({EMILIA_HELP_IMG}) 
+I have Quite a Few Features, Go Ahead and Check out!"""
 
 IMPORTED = {}
 MIGRATEABLE = []
