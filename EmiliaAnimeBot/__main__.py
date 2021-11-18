@@ -69,6 +69,7 @@ Saya Memiliki Banyak Fitur Praktis
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Cukup Klik Tombol di Bawah!
 This is {BOT_NAME}[.]({EMILIA_START_IMG})
+"""
 
 buttons = [
     [
