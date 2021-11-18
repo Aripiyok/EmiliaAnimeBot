@@ -79,7 +79,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-          text="•• ᴄᴏᴍᴍᴀɴᴅs ••", callback_data="help_back"
+            text="•• ᴄᴏᴍᴍᴀɴᴅs ••", callback_data="help_back"
         ),
     ],
     [
