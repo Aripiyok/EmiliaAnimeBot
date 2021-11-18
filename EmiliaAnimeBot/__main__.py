@@ -52,7 +52,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = f"""
-This is {BOT_NAME}[.]({EMILIA_START_IMG})
+This is {BOT_NAME})
 •• Haii My Name is @boytapibot ••
 
 GUA HADIR UNTUK MELINDUNGI WANITA DARI COWO STRESS!
@@ -70,7 +70,7 @@ Saya Memiliki Banyak Fitur Praktis
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Cukup Klik Tombol di Bawah!
 
-This is {BOT_NAME}[.]({EMILIA_START_IMG})
+This is {BOT_NAME})
 """
 
 buttons = [
