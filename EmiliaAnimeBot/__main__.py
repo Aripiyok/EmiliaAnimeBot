@@ -204,6 +204,7 @@ def start(update: Update, context: CallbackContext):
 
         else:
             update.effective_message.reply_text(
+                "https://telegra.ph/file/c5666c010f3ccc267719d.jpg",
                 PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
